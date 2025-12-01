@@ -5,7 +5,7 @@
   <h3>📊 GitHub Stats</h3>
 
   <a href="https://github.com/dinhductai">
-    <img src="https://github-readme-stats.vercel.app/api?username=dinhductai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dinhductai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhductai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180em" alt="Dinh Duc Tai Top Langs" />
   </a>
   

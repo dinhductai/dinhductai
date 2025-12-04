@@ -12,7 +12,7 @@
 [![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=4C71F2&center=true&vCenter=true&width=404&height=32&lines=%F0%9F%9A%80Full+Stack+Developer;%F0%9F%91%BEBackend+Developer)](https://git.io/typing-svg/#gh-light-mode-only)
 
 <p align="center" style="font-size: 16px;">
-  🔭 I’m a <b>Final-year Student</b> & <b>Java Backend Intern</b> <br/>
+  🔭 I’m a <b>Final-year Student</b> & <b>Java Backend</b> <br/>
   🛠️ Strong in <b>Spring Boot (Monolithic & Microservices)</b> <br/>
   🌱 I’m on my way to becoming a <b>Fullstack Developer</b>
 </p>

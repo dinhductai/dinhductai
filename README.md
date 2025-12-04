@@ -11,6 +11,12 @@
 [![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=2c93e1&center=true&vCenter=true&width=404&height=32&lines=%F0%9F%9A%80Full+Stack+Developer;%F0%9F%91%BEBackend+Developer)](https://git.io/typing-svg/#gh-dark-mode-only)
 [![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=4C71F2&center=true&vCenter=true&width=404&height=32&lines=%F0%9F%9A%80Full+Stack+Developer;%F0%9F%91%BEBackend+Developer)](https://git.io/typing-svg/#gh-light-mode-only)
 
+<p align="center" style="font-size: 16px;">
+  🔭 I’m a <b>Final-year Student</b> & <b>Java Backend Intern</b> <br/>
+  🛠️ Strong in <b>Spring Boot (Monolithic & Microservices)</b> <br/>
+  🌱 I’m on my way to becoming a <b>Fullstack Developer</b>
+</p>
+
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=safari&logoColor=white" alt="Portfolio" height="30">](https://dinhductai.github.io/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">](https://www.linkedin.com/in/ductai2501)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="30">](https://www.facebook.com/dinhductai12/?locale=vi_VN)
@@ -20,11 +26,11 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <a href="https://github.com/dinhductai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhductai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180em" alt="Dinh Duc Tai Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhductai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" height="180em" alt="Dinh Duc Tai Top Langs" />
   </a>
   <br/> 
   <a href="https://github.com/dinhductai">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhductai&theme=tokyonight&hide_border=true" alt="Dinh Duc Tai Streak" />
+    <img src="https://streak-stats.demolab.com?user=dinhductai&theme=tokyonight&hide_border=true" alt="Dinh Duc Tai Streak" />
   </a>
 </div>
 
@@ -82,10 +88,12 @@
   </ul>
 </div>
 
-<picture>
-  <source 
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f70b9%2C100:2c93e1&section=footer&desc=Reach%20out%20%E2%80%93%20I'm%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=D1D5DB&descAlignY=54&animation=fadeIn&descAlign=50" 
-    media="(prefers-color-scheme: dark)" />
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4C71F2,100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I'm%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=1F2328&descAlignY=54&animation=fadeIn&descAlign=50" />
-</picture>
+<a href="mailto:dinhductai2501@gmail.com">
+  <picture>
+    <source 
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f70b9%2C100:2c93e1&section=footer&desc=Reach%20out%20%E2%80%93%20I'm%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=D1D5DB&descAlignY=54&animation=fadeIn&descAlign=50" 
+      media="(prefers-color-scheme: dark)" />
+    <img 
+      src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4C71F2,100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I'm%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=1F2328&descAlignY=54&animation=fadeIn&descAlign=50" />
+  </picture>
+</a>

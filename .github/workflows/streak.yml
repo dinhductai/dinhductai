@@ -1,0 +1,27 @@
+name: Streak
+on:
+  schedule: [{ cron: "10 0 * * *" }]  # chạy mỗi ngày 00:10 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate streak SVG
+        run: |
+          mkdir -p assets
+          curl -L "https://github-readme-streak-stats.herokuapp.com?user=dinhductai&theme=tokyonight&hide_border=true" -o assets/streak.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.svg
+          git commit -m "chore: update streak" || echo "No changes"
+          git push

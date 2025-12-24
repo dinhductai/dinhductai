@@ -21,16 +21,40 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">](https://www.linkedin.com/in/ductai2501)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="30">](https://www.facebook.com/dinhductai12/?locale=vi_VN)
 [<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF" alt="Email" height="30">](mailto:dinhductai2501@gmail.com)
+
 &nbsp;
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
+
+  <!-- Most Used Languages (giữ nguyên) -->
   <a href="https://github.com/dinhductai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhductai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" height="180em" alt="Dinh Duc Tai Top Langs" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhductai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=github-readme-stats"
+      height="180em"
+      alt="Dinh Duc Tai Top Langs"
+    />
   </a>
-  <br/> 
+
+  <br/>
+
+  <!-- Streak (ổn định: lấy từ assets/streak.svg do GitHub Actions generate) -->
   <a href="https://github.com/dinhductai">
-    <img src="https://streak-stats.demolab.com?user=dinhductai&theme=tokyonight&hide_border=true" alt="Dinh Duc Tai Streak" />
+    <img
+      src="https://raw.githubusercontent.com/dinhductai/dinhductai/main/assets/streak.svg"
+      height="180em"
+      alt="Dinh Duc Tai Streak"
+    />
+  </a>
+
+  <br/><br/>
+
+  <!-- Contribution Graph (line graph) -->
+  <a href="https://github.com/dinhductai">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=dinhductai&theme=tokyo-night&hide_border=true&area=true&custom_title=%C4%90inh%20%C4%90%E1%BB%A9c%20T%C3%A0i%27s%20Contribution%20Graph"
+      alt="Dinh Duc Tai Contribution Graph"
+    />
   </a>
 </div>
 

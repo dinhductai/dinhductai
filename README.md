@@ -121,3 +121,6 @@
       src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4C71F2,100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I'm%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=1F2328&descAlignY=54&animation=fadeIn&descAlign=50" />
   </picture>
 </a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dinhductai&label=Profile%20Views&color=6FA8DC&style=flat" alt="Profile view counter" />
+</p>
